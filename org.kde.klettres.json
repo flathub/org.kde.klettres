@@ -22,7 +22,7 @@
                 { 
                    "type": "archive", 
                    "url": "https://download.kde.org/stable/release-service/20.08.3/src/klettres-20.08.3.tar.xz",
-                   "sha256": "3047607a89e9f840e6013dae2c0f6a5d46d45781201c9499ee7994b2ac7dc434"
+                   "sha256": "a97f85847273e6c4d94979a99dc25bf66dbbf2fd1f0cab3ed3d47eb98f032c47"
                 },
                 {
                     "type": "patch",
