@@ -21,8 +21,8 @@
             "sources": [ 
                 { 
                    "type": "archive", 
-                   "url": "https://download.kde.org/stable/release-service/20.12.2/src/klettres-20.12.2.tar.xz",
-                   "sha256": "c31e44e3b97438d776cc49dd4d55ddc7c406ae3b1db1fe13fa0f1e65c69abe47"
+                   "url": "https://download.kde.org/stable/release-service/20.12.3/src/klettres-20.12.3.tar.xz",
+                   "sha256": "bc1522aaabd920e0799e760cdb8c9bc28284efd9f6e00a1609ff89382363cbfd"
                 }                 
             ]
         }
