@@ -22,7 +22,13 @@
                 { 
                    "type": "archive", 
                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/klettres-21.12.3.tar.xz",
-                   "sha256": "3b279cb697c449c2bddd50f9b317b76723cf56a31f28a18f994b50d3b07b9f50"
+                   "sha256": "3b279cb697c449c2bddd50f9b317b76723cf56a31f28a18f994b50d3b07b9f50",
+                   "x-checker-data": {
+                    "type": "anitya",
+                    "project-id": 8763,
+                    "stable-only": true,
+                    "url-template": "https://download.kde.org/stable/release-service/$version/src/klettres-$version.tar.xz"
+                }
                 }                 
             ]
         }
