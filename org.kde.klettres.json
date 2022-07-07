@@ -6,30 +6,29 @@
     "command": "klettres",
     "rename-icon": "klettres",
     "finish-args": [
-        "--share=network", 
-        "--share=ipc", 
-        "--socket=x11", 
+        "--share=network",
+        "--share=ipc",
+        "--socket=x11",
         "--socket=wayland",
         "--device=dri",
         "--socket=pulseaudio"
     ],
-
     "modules": [
         {
             "name": "klettres",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                   "type": "archive", 
-                   "url": "https://download.kde.org/stable/release-service/22.04.2/src/klettres-22.04.2.tar.xz",
-                   "sha256": "6411158aa869d6551fccfabd2a8a4dcf5523bce03c674aa4c7c1db5cdb68b7b0",
-                   "x-checker-data": {
-                    "type": "anitya",
-                    "project-id": 8763,
-                    "stable-only": true,
-                    "url-template": "https://download.kde.org/stable/release-service/$version/src/klettres-$version.tar.xz"
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/klettres-22.04.3.tar.xz",
+                    "sha256": "d73f486739f546a7efcfc7d965bbd053ef237166ca316942ca9590d3cd6926c9",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/klettres-$version.tar.xz"
+                    }
                 }
-                }                 
             ]
         }
     ]
