@@ -20,8 +20,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/klettres-23.08.4.tar.xz",
-                    "sha256": "f6167c31a049bb71153be129e76a3462526e1c717a607631f6169dff1b246098",
+                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/klettres-23.08.5.tar.xz",
+                    "sha256": "eac927a2fc798370e3bffda7872d0e7408c41d378a2e3a52c1be288216c9817e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
