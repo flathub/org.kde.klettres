@@ -6,12 +6,12 @@
     "command": "klettres",
     "rename-icon": "klettres",
     "finish-args": [
-        "--share=network",
-        "--share=ipc",
-        "--socket=x11",
-        "--socket=wayland",
         "--device=dri",
-        "--socket=pulseaudio"
+        "--share=ipc",
+        "--share=network",
+        "--socket=fallback-x11",
+        "--socket=pulseaudio",
+        "--socket=wayland"
     ],
     "modules": [
         {
