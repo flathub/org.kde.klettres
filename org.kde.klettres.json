@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/klettres-26.04.3.tar.xz",
-                    "sha256": "7e52d8215df8cd47c91b64f70df474658b783258060aa61e7fffa25b1b1150c1",
+                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/klettres-26.08.1.tar.xz",
+                    "sha256": "12d8ecd0d1a4475d86a3f279c3d0b372acc5d523b9bed6f231392afa16a005e3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
